@@ -1,0 +1,16 @@
+{
+  "tenantId": "kl",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "kl.kochi",
+      "districtCode": "kochi",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["EN", "ML"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tenantId": "kl",
+  "moduleName": "sw-services-calculation",
+  "DateEffectiveConfig": [
+   {
+      "applicableDays": 19,
+      "isActive": true
+    }
+  ]
+}

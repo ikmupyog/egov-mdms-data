@@ -1,0 +1,295 @@
+{
+  "tenantId": "kl",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.Kochi",
+          "name": "Kochi"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.kochi",
+          "name": "kochi"
+        }
+      ]
+    },
+    {
+      "module": "CASE_MANAGEMENT",
+      "code": "CASE_MANAGEMENT",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.kochi",
+          "name": "kochi"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "Reports",
+      "code": "Reports",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.kochi"
+        }
+      ]
+    }
+  ]
+}
