@@ -4,7 +4,7 @@
   "tenants": [
     {
       "code": "kl.kochi",
-      "name": "Kpchi",
+      "name": "Kochi",
       "description": "Kerala",
       "logoId": "",
       "imageId": "",
@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Jalandhar-MC"
+        "ddrName": "Kochi-MC"
       },
       "address": "Kochi Municipal Corporation, PB No-1016, Cochin, Ernakulam Dt-Kerala State, Pin - 682011",
       "pincode": [682011],
