@@ -1,0 +1,18 @@
+{
+    "tenantId": "kl",
+    "moduleName": "NOC",
+    "NOCBusinessServiceRoleMaping":[{
+        "code": "FIRE_NOC_SRV",
+        "active": true,
+        "roles": [
+        "FIRE_NOC_APPROVER"
+        ]
+    },
+    {
+    "code": "AIRPORT_NOC_SRV",
+    "active": true,
+    "roles": [
+        "AIRPORT_AUTHORITY_APPROVER"
+    ]
+    }]
+}

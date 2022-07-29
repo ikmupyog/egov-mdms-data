@@ -1,0 +1,10 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "HierarchyType": [
+    {
+      "name": "admin",
+      "code": "ADMIN"
+    }    
+  ]
+}
