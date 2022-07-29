@@ -2978,6 +2978,39 @@
     "contactNumber": "111111",
     "pdfHeader": "",
     "pdfContactDetails": ""
+    },
+    {
+    "code": "kl",
+    "name": "Kerala",
+    "description": "Kerala State",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "Kerala",
+        "localName": "\u0d35\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d1e\u0d4d\u0d1a\u0d47\u0d30\u0d3f \u0d2e\u0d41\u0d28\u0d3f\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d3f\u0d31\u0d4d\u0d31\u0d3f",
+        "districtCode": "",
+        "districtName": "Kerala",
+        "regionName": "Kerala",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "kl",
+        "ddrName": "kl"
+    },
+    "address": "Kerala",
+    "pincode": [],
+    "contactNumber": "111111",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
     }
   ]
 }
