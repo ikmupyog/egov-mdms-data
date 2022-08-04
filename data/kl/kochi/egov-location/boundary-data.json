@@ -1,5 +1,5 @@
 {
-  "tenantId": "kl.kochi",
+  "tenantId": "kl.cochin",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "kl.kochi",
+        "code": "kl.cochin",
         "children":[
           {
             "id": 2,
@@ -639,7 +639,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "kl.kochi",
+        "code": "kl.cochin",
         "children":[
           {
             "id": 2,

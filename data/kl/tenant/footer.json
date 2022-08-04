@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer":[
       {
-       "code": "kl.kochi",
+       "code": "kl.cochin",
        "service": "PT",
        "receiptFooterContent": [
           {
@@ -61,7 +61,7 @@
          
       },
       {
-        "code": "kl.kochi",
+        "code": "kl.cochin",
         "service": "PT.MUTATION",
         "receiptFooterContent": [
            {
@@ -115,7 +115,7 @@
           
        },
       {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "TL",
           "receiptFooterContent": [
              {
@@ -165,7 +165,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "FIRENOC",
           "receiptFooterContent": [
              {
@@ -211,7 +211,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "BPA.NC_APP_FEE",
           "receiptFooterContent": [
              {
@@ -261,7 +261,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "BPA.NC_SAN_FEE",
           "receiptFooterContent": [
              {
@@ -311,7 +311,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "BPA.LOW_RISK_PERMIT_FEE",
           "receiptFooterContent": [
              {
@@ -361,7 +361,7 @@
             
          },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_OC_APP_FEE",
             "receiptFooterContent": [
                 {
@@ -409,7 +409,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_OC_SAN_FEE",
             "receiptFooterContent": [
                 {
@@ -457,7 +457,7 @@
             ]
         },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "DEFAULT",
           "receiptFooterContent": [
              {
@@ -517,7 +517,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "BPAREG",
           "receiptFooterContent": [
              {
@@ -567,7 +567,7 @@
             
          },
          {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "BPAREG",
           "receiptFooterContent": [
              {
@@ -665,7 +665,7 @@
           ]            
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_APP_FEE",
             "receiptFooterContent": [
                 {
@@ -713,7 +713,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_SAN_FEE",
             "receiptFooterContent": [
                 {
@@ -761,7 +761,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.LOW_RISK_PERMIT_FEE",
             "receiptFooterContent": [
                 {
@@ -809,7 +809,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_OC_APP_FEE",
             "receiptFooterContent": [
                 {
@@ -857,7 +857,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "BPA.NC_OC_SAN_FEE",
             "receiptFooterContent": [
                 {
@@ -905,7 +905,7 @@
             ]
         },
         {
-            "code": "kl.kochi",
+            "code": "kl.cochin",
             "service": "DEFAULT",
             "receiptFooterContent": [
                 {
@@ -953,7 +953,7 @@
             ]
         },
         {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "service": "FSM.TRIP_CHARGES",
           "receiptFooterContent": [
             {
