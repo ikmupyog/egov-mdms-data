@@ -197,7 +197,7 @@
       "tenants": [
         {
           "code": "kl.cochin",
-          "name": "Kochi"
+          "name": "Cochin Corporation"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "tenants": [
         {
           "code": "kl.kochi",
-          "name": "kochi"
+          "name": "Cochin Corporation"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "tenants": [
         {
           "code": "kl.cochin",
-          "name": "kochi"
+          "name": "Cochin Corporation"
         }
       ]
     },
