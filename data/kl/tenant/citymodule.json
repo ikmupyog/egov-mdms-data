@@ -5,7 +5,7 @@
     {
       "module": "FSM",
       "code": "FSM",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -27,7 +27,7 @@
     {
       "module": "PT",
       "code": "PT",
-      "active": true,
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -60,7 +60,7 @@
     {
       "module": "NOC",
       "code": "NOC",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
