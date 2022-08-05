@@ -5,8 +5,8 @@
     {
       "stateCode": "Kerala",
       "stateName": "Kerala",
-      "code": "kl.Kochi",
-      "name": "Kochi",
+      "code": "kl.cochin",
+      "name": "Cochin",
       "active": true,
       "module": "NationalDashboard"
     },
