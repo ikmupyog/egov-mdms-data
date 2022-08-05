@@ -9,7 +9,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "order": 6,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -86,7 +86,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -97,7 +97,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -108,7 +108,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -119,7 +119,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -130,7 +130,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -152,7 +152,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -174,7 +174,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -196,7 +196,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "kl.Kochi",
+          "code": "kl.cochin",
           "name": "Kochi"
         }
       ]
@@ -208,7 +208,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "name": "kochi"
         }
       ]
@@ -220,7 +220,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "kl.kochi",
+          "code": "kl.cochin",
           "name": "kochi"
         }
       ]
@@ -232,7 +232,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -243,7 +243,7 @@
       "order": 5,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -265,7 +265,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -276,7 +276,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     },
@@ -287,7 +287,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "kl.kochi"
+          "code": "kl.cochin"
         }
       ]
     }
