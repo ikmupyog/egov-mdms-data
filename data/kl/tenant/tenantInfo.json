@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "kl.kochi",
-      "districtCode": "kochi",
+      "code": "kl.cochin",
+      "districtCode": "Cochin",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
