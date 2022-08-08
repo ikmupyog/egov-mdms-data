@@ -7,7 +7,7 @@
       "code": "kl",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/ikm-egov-assets/Kerala.png",
-      "logoUrl": "https://github.com/ikmupyog/DIGIT-OSS/blob/master/frontend/mono-ui/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/logo_black.png",
+      "logoUrl": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/logo_black.png",
       "logoUrlWhite": "https://dev.digit.org/egov-dev-assets/logo-mseva-white.png",
       "statelogo":"https://dev.digit.org/egov-dev-assets/pblogo.png",
       "hasLocalisation": true,
