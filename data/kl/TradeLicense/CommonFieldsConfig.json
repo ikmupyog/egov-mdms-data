@@ -353,7 +353,7 @@
         {
             "head": "ES_NEW_APPLICATION_PROPERTY_ASSESSMENT",
             "body": [
-@@ -322,7 +326,7 @@
+
                     "hideInEmployee": true,
                     "nextStep": {
                         "TL_COMMON_YES": "accessories-details",
@@ -362,7 +362,7 @@
                     }
                 },
                 {
-@@ -338,7 +342,7 @@
+
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "withoutLabel": true,
@@ -371,7 +371,7 @@
                     "hideInEmployee": true
                 }
             ]
-@@ -435,80 +439,6 @@
+
                 }
             ]
         },
