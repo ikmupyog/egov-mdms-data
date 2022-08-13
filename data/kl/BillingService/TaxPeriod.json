@@ -67,12 +67,20 @@
       "financialYear": "2019-20"
     },
     {
-      "fromDate": 1617215400000,
+      "fromDate": 1617172199000,
       "toDate": 1648771199999,
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLAN2021",
       "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2022",
+      "financialYear": "2022-23"
     },
     {
       "fromDate": 1522540800000,
@@ -369,6 +377,22 @@
       "service": "PT.MUTATION",
       "code": "PTMUTAN2016",
       "financialYear": "2016-17"
+    },    
+    {
+      "fromDate": 1617172199000,
+      "toDate": 1648771199999,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2022",
+      "financialYear": "2022-23"
     },
     {
       "fromDate": 1585679399000,
