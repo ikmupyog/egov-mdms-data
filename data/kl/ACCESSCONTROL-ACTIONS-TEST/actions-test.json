@@ -21173,6 +21173,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ws-home"
+    },
+    {
+      "id": 2364,
+      "name": "Hello TradeLicense",
+      "url": "/tl-services/v1/Hello",
+      "parentModule": "",
+      "displayName": "Hello TradeLicense",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
