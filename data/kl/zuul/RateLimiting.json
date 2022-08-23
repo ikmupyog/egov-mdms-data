@@ -6,7 +6,7 @@
         "url": "/user/citizen/_create",
         "service": "egov-user",
         "type": "origin",
-        "rate": 5,
+        "rate": 10,
         "quota": 10000,
         "refresh-interval" : 60
       },
@@ -14,7 +14,7 @@
         "url": "/tl-services/v1/_create",
         "service": "tl-services",
         "type": "user",
-        "rate": 5,
+        "rate": 10,
         "quota": 10000,
         "refresh-interval" : 60
       }
