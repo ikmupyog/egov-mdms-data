@@ -15459,6 +15459,12 @@
       "tenantId": "kl"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2364,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1685,
       "actioncode": "",

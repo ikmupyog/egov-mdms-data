@@ -5,7 +5,7 @@
     {
       "module": "FSM",
       "code": "FSM",
-      "active": true,
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -18,17 +18,6 @@
       "code": "PGR",
       "active": true,
       "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "PT",
-      "code": "PT",
-      "active": true,
-      "order": 1,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -51,17 +40,6 @@
       "code": "Receipts",
       "active": true,
       "order": 3,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "NOC",
-      "code": "NOC",
-      "active": true,
-      "order": 2,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -146,50 +124,6 @@
       ]
     },
     {
-      "module": "FIRENOC",
-      "code": "FIRENOC",
-      "active": false,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
-      "active": false,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "BPAREG",
-      "code": "BPAREG",
-      "active": false,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "OBPS",
-      "code": "OBPS",
-      "active": true,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
@@ -197,7 +131,7 @@
       "tenants": [
         {
           "code": "kl.cochin",
-          "name": "Kochi"
+          "name": "Cochin Corporation"
         }
       ]
     },
@@ -209,7 +143,7 @@
       "tenants": [
         {
           "code": "kl.cochin",
-          "name": "kochi"
+          "name": "Cochin Corporation"
         }
       ]
     },
@@ -221,18 +155,7 @@
       "tenants": [
         {
           "code": "kl.cochin",
-          "name": "kochi"
-        }
-      ]
-    },
-    {
-      "module": "WS",
-      "code": "WS",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "kl.cochin"
+          "name": "Cochin Corporation"
         }
       ]
     },
@@ -241,17 +164,6 @@
       "code": "NDSS",
       "active": true,
       "order": 5,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "CommonPT",
-      "code": "CommonPT",
-      "active": true,
-      "order": 3,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -274,17 +186,6 @@
       "code": "Reports",
       "active": true,
       "order": 4,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        }
-      ]
-    },
-    {
-      "module": "SW",
-      "code": "SW",
-      "active": true,
-      "order": 1,
       "tenants": [
         {
           "code": "kl.cochin"
