@@ -13,8 +13,8 @@
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
-        "citizen": "/user/register",
-        "employee": "/user/login"
+        "citizen": "/digit-ui/user/register",
+        "employee": "/digit-ui/user/login"
       },
       "languages": [
         {
