@@ -471,7 +471,7 @@
       "idname": "bpa.permitnumber"
     },
     {
-      "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+      "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
       "idname": "pg.txnid"
     },
     {
@@ -559,7 +559,7 @@
       "idname": "noc.application.number"
     },
     {
-      "format": "PB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+      "format": "KL-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
       "idname": "pgr.servicerequestid"
     },
     {
