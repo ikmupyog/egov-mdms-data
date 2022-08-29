@@ -1,172 +1,1952 @@
 {
-  "tenantId": "kl.cochin",
+  "tenantId": "kl.cochin ",
   "moduleName": "egov-location",
   "TenantBoundary": [
-    {
-      "hierarchyType": {
-        "code": "ADMIN",
-        "name": "admin"
-      },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "Cochin",
-        "localname": "Cochin",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "kl.cochin",
-        "children":[
-          {
-            "id": 2,
-            "boundaryNum": 1,
-            "name": "Zone 1",
-            "localname": "Zone1",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "Z1",
-            "children": [
-              {
-                "id": 3,
-                "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block1",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B1",
-                "children": [
-                  { "id": 4,
-                    "boundaryNum": 1,
-                    "name": "Ajit Nagar",
-                    "localname": "Ajit Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "SUN04",
-                    "pincode": [143001],
-                    "area": "A1",
-                    "children": []},
-                  { "id": 5,
-                    "boundaryNum": 1,
-                    "name": "Back Side 33 KVA Grid Patiala Road",
-                    "localname": "Back Side 33 KVA Grid Patiala Road",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "SUN11",
-                    "pincode": [143001],
-                    "area": "A1",
-                    "children": []},
-                  { "id": 6,
-                    "boundaryNum": 1,
-                    "name": "Back Side 66 KVA Grid Patiala Road",
-                    "localname": "Back Side 66 KVA Grid Patiala Road",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "SUN12",
-                    "pincode": [143001],
-                    "area": "A2",
-                    "children": []},
-                  { "id": 7,
-                    "boundaryNum": 1,
-                    "name": "Back Side Civil Courts Colony",
-                    "localname": "Back Side Civil Courts Colony",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "SUN13",
-                    "pincode": [143001],
-                    "area": "A1",
-                    "children": []}
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
     {
       "hierarchyType": {
         "code": "REVENUE",
         "name": "REVENUE"
       },
       "boundary": {
-        "id": 1,
+        "id": "35ac0318-7f98-43a7-8a70-d213eda81d71",
         "boundaryNum": 1,
-        "name": "Cochin",
-        "localname": "Cochin",
+        "name": "Cochin ",
+        "localname": "കൊച്ചി കോര്‍പ്പറേഷന്‍",
         "longitude": null,
         "latitude": null,
-        "label": "City",
-        "code": "kl.cochin",
-        "children":[
+        "label": "Corporation",
+        "code": "kl.cochin ",
+        "children": [
           {
-            "id": 2,
+            "id": "d7e6fca9-e6f8-468c-bb98-ab9da953cbf3",
             "boundaryNum": 1,
-            "name": "Zone 1",
-            "localname": "Zone1",
+            "name": "Main Office",
+            "localname": "മുഖ്യ ഓഫീസ് ",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "Z1",
+            "code": "MAIN OFFICE",
             "children": [
               {
-                "id": 3,
+                "id": "64fb1236-e5f9-48c6-a8f4-15e26b6a645e",
                 "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block1",
+                "name": "PANAMPILLI NAGAR",
+                "localname": "പനമ്പിള്ളി നഗര്‍",
                 "longitude": null,
                 "latitude": null,
-                "label": "Block",
-                "code": "B1",
+                "label": "Ward ",
+                "code": "56",
                 "children": [
-                  { "id": 4,
+                  {
+                    "id": "02280840-f406-4048-8d50-859c59fc9bca",
                     "boundaryNum": 1,
-                    "name": "Ajit Nagar - Area1",
-                    "localname": "Ajit Nagar - Area1",
-                    "longitude": 74.871552,
-                    "latitude": 31.63089,
+                    "name": "PANAMPILLI NAGAR",
+                    "localname": "പനമ്പിള്ളി നഗര്‍",
+                    "longitude": null,
+                    "latitude": null,
                     "label": "Locality",
-                    "code": "SUN04",
-                    "pincode": [143001],
-                    "area": "Area1",
-                    "children": []},
-                  { "id": 5,
-                    "boundaryNum": 1,
-                    "name": "Back Side 33 KVA Grid Patiala Road - Area1",
-                    "localname": "Back Side 33 KVA Grid Patiala Road - Area1",
+                    "code": "SUN56",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "844e1f81-7645-47ce-bd21-8e39a9bdf80c",
+                "boundaryNum": 2,
+                "name": "KONTHURUTHY",
+                "localname": "കോന്തുരുത്തി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "58",
+                "children": [
+                  {
+                    "id": "42ed5b7a-169c-48e9-8f93-2dbefecaa135",
+                    "boundaryNum": 2,
+                    "name": "KONTHURUTHY",
+                    "localname": "കോന്തുരുത്തി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN58",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "057d6e02-4228-4b0d-8ab8-6174b9eb0559",
+                "boundaryNum": 3,
+                "name": "THEVARA",
+                "localname": "തേവര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "59",
+                "children": [
+                  {
+                    "id": "1da55f4a-7e07-4520-9e1e-6690b1889715",
+                    "boundaryNum": 3,
+                    "name": "THEVARA",
+                    "localname": "തേവര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN59",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8cc9fc6-2303-4fbf-bc27-98dd6d3e56e8",
+                "boundaryNum": 4,
+                "name": "PERUMANUR",
+                "localname": "പെരുമാനൂര്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "60",
+                "children": [
+                  {
+                    "id": "84438765-7c7b-407d-8a49-6d67eb6bf88e",
+                    "boundaryNum": 4,
+                    "name": "PERUMANUR",
+                    "localname": "പെരുമാനൂര്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN60",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00775691-bb66-4982-a172-af2953a17f6e",
+                "boundaryNum": 5,
+                "name": "RAVIPURAM",
+                "localname": "രവിപുരം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "61",
+                "children": [
+                  {
+                    "id": "96d89b0d-9884-4a6e-b33f-fbb2a8709790",
+                    "boundaryNum": 5,
+                    "name": "RAVIPURAM",
+                    "localname": "രവിപുരം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN61",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0bf9f644-2cf7-4d9b-ba5e-d332676ef47f",
+                "boundaryNum": 6,
+                "name": "ERNAKULAM SOUTH",
+                "localname": "എറണാകുളം സൗത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "62",
+                "children": [
+                  {
+                    "id": "daa61de0-534d-4592-92b0-5b323c6bfc3c",
+                    "boundaryNum": 6,
+                    "name": "ERNAKULAM SOUTH",
+                    "localname": "എറണാകുളം സൗത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN62",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eb61f67c-1acf-4655-bf75-8716c60e1d56",
+                "boundaryNum": 7,
+                "name": "KATHRIKADAVU",
+                "localname": "കത്രിക്കടവ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "64",
+                "children": [
+                  {
+                    "id": "34cbf631-ce44-4b86-a8a4-aadaef2df316",
+                    "boundaryNum": 7,
+                    "name": "KATHRIKADAVU",
+                    "localname": "കത്രിക്കടവ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN64",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05577cd3-4fe8-4ddd-8d86-49ae163b1c2d",
+                "boundaryNum": 8,
+                "name": "KALOOR SOUTH",
+                "localname": "കലൂര്‍ സൗത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "65",
+                "children": [
+                  {
+                    "id": "abc2d0b2-1180-4e23-a7f6-de5831648be7",
+                    "boundaryNum": 8,
+                    "name": "KALOOR SOUTH",
+                    "localname": "കലൂര്‍ സൗത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN65",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d0793ed9-1d60-4751-ac4f-f6ef8b543f63",
+                "boundaryNum": 9,
+                "name": "ERNAKULAM CENTRAL",
+                "localname": "എറണാകുളം സെന്‍ട്രല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "66",
+                "children": [
+                  {
+                    "id": "cca5a83f-e13a-4c1f-b4a0-199a3d1fc7c6",
+                    "boundaryNum": 9,
+                    "name": "ERNAKULAM CENTRAL",
+                    "localname": "എറണാകുളം സെന്‍ട്രല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN66",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b311631a-ec44-44f5-9bc9-96c4b7bbcf49",
+                "boundaryNum": 10,
+                "name": "ERNAKULAM NORTH",
+                "localname": "എറണാകുളം നോര്‍ത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "67",
+                "children": [
+                  {
+                    "id": "e714ad5a-3d52-4c62-8b79-a789e870977d",
+                    "boundaryNum": 10,
+                    "name": "ERNAKULAM NORTH",
+                    "localname": "എറണാകുളം നോര്‍ത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN67",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98d9d4da-a34f-48e1-af36-ec636d75bb9c",
+                "boundaryNum": 11,
+                "name": "AYYAPPANKAVU",
+                "localname": "അയ്യപ്പന്‍കാവ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "68",
+                "children": [
+                  {
+                    "id": "7395f669-f62d-47bf-9046-00834929cd3b",
+                    "boundaryNum": 11,
+                    "name": "AYYAPPANKAVU",
+                    "localname": "അയ്യപ്പന്‍കാവ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN68",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0e64dd36-24d2-447d-bf47-43cf66ab2a6a",
+            "boundaryNum": 2,
+            "name": "Edappally",
+            "localname": "ഇടപ്പള്ളി",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "EDAPPALLY",
+            "children": [
+              {
+                "id": "3145545d-fe7c-428a-a3a0-2b42f009cf35",
+                "boundaryNum": 12,
+                "name": "ELAMAKKARA NORTH",
+                "localname": "എളമക്കര നോര്‍ത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "33",
+                "children": [
+                  {
+                    "id": "a8d877d1-c7b8-4392-8c2b-19e99692007b",
+                    "boundaryNum": 12,
+                    "name": "ELAMAKKARA NORTH",
+                    "localname": "എളമക്കര നോര്‍ത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN33",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9865a7b6-97a4-41e3-afe8-7bc30fe518fc",
+                "boundaryNum": 13,
+                "name": "PUTHUKKALAVATTAM",
+                "localname": "പുതുക്കലവട്ടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "34",
+                "children": [
+                  {
+                    "id": "bbce19bb-8dee-44b7-a7da-48664cf6283b",
+                    "boundaryNum": 13,
+                    "name": "PUTHUKKALAVATTAM",
+                    "localname": "പുതുക്കലവട്ടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN34",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2ffb6a6-6b95-4af0-8ce9-de17c560150a",
+                "boundaryNum": 14,
+                "name": "PONEKKARA",
+                "localname": "പോണേക്കര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "35",
+                "children": [
+                  {
+                    "id": "27441081-4e6b-4a33-ac92-21bb85ff575c",
+                    "boundaryNum": 14,
+                    "name": "PONEKKARA",
+                    "localname": "പോണേക്കര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN35",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20bb4321-b0fc-45a1-9dce-57a57d2b970f",
+                "boundaryNum": 15,
+                "name": "KUNNUMPURAM",
+                "localname": "കുന്നുംപുറം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "36",
+                "children": [
+                  {
+                    "id": "182ba11e-d12e-419f-a3e0-5be1789cd51d",
+                    "boundaryNum": 15,
+                    "name": "KUNNUMPURAM",
+                    "localname": "കുന്നുംപുറം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN36",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d51fc5c8-0b07-46c0-ac9b-a37aaf59e1e3",
+                "boundaryNum": 16,
+                "name": "EDAPPALLY",
+                "localname": "ഇടപ്പള്ളി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "37",
+                "children": [
+                  {
+                    "id": "07edcad3-c6ac-4076-acc4-1ed467eb9e03",
+                    "boundaryNum": 16,
+                    "name": "EDAPPALLY",
+                    "localname": "ഇടപ്പള്ളി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN37",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f802b917-f952-405d-855b-b97abda61b93",
+                "boundaryNum": 17,
+                "name": "DHEVANKULANGARA",
+                "localname": "ദേവന്‍കുളങ്ങര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "38",
+                "children": [
+                  {
+                    "id": "2b5fe2d1-4282-4c1b-b790-2a7788733081",
+                    "boundaryNum": 17,
+                    "name": "DHEVANKULANGARA",
+                    "localname": "ദേവന്‍കുളങ്ങര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN38",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b0bae696-b5be-4e22-8703-d547a536074c",
+                "boundaryNum": 18,
+                "name": "KARUKAPPILLI",
+                "localname": "കറുകപ്പിള്ളി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "39",
+                "children": [
+                  {
+                    "id": "59404cc3-231e-4541-b1da-e460d765fca8",
+                    "boundaryNum": 18,
+                    "name": "KARUKAPPILLI",
+                    "localname": "കറുകപ്പിള്ളി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN39",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ce4d1f1-c0c3-4079-bdd2-9636ecdc5bd4",
+                "boundaryNum": 19,
+                "name": "MAMANGALAM",
+                "localname": "മാമംഗലം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "40",
+                "children": [
+                  {
+                    "id": "af3c322e-ead6-497e-99f7-1538bc118ca9",
+                    "boundaryNum": 19,
+                    "name": "MAMANGALAM",
+                    "localname": "മാമംഗലം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN40",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3c2d36ee-ac04-4365-b13c-62bd62ee89c2",
+                "boundaryNum": 20,
+                "name": "PADIVATTAM",
+                "localname": "പാടിവട്ടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "41",
+                "children": [
+                  {
+                    "id": "84fcd0e3-cddf-4c3c-bba8-a3d2b01b5b72",
+                    "boundaryNum": 20,
+                    "name": "PADIVATTAM",
+                    "localname": "പാടിവട്ടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN41",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f53dd2d-0128-46c3-9627-aafdb0923ac9",
+                "boundaryNum": 21,
+                "name": "VENNALA",
+                "localname": "വെണ്ണല",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "42",
+                "children": [
+                  {
+                    "id": "28e92da1-4a8e-4ab9-9f9a-d980df949b50",
+                    "boundaryNum": 21,
+                    "name": "VENNALA",
+                    "localname": "വെണ്ണല",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN42",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0014d00b-dd15-467f-8f2b-badbc8f385d4",
+                "boundaryNum": 22,
+                "name": "PALARIVATTAM",
+                "localname": "പാലാരിവട്ടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "43",
+                "children": [
+                  {
+                    "id": "072d0ded-5c34-4ede-a228-94d9c195cd60",
+                    "boundaryNum": 22,
+                    "name": "PALARIVATTAM",
+                    "localname": "പാലാരിവട്ടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN43",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a52ecb5d-b306-43d9-8a02-82f113507bdb",
+                "boundaryNum": 23,
+                "name": "KARANAKKODAM",
+                "localname": "കാരണക്കോടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "44",
+                "children": [
+                  {
+                    "id": "daaabce7-4f9a-49d2-aa0a-88e93ba455c7",
+                    "boundaryNum": 23,
+                    "name": "KARANAKKODAM",
+                    "localname": "കാരണക്കോടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN44",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41c5f7ae-3cb4-44d6-b738-b92e84a2e8e9",
+                "boundaryNum": 24,
+                "name": "KALOOR NORTH",
+                "localname": "കലൂർ നോർത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "70",
+                "children": [
+                  {
+                    "id": "8d79da24-277e-4434-b8da-d6568bc02cbc",
+                    "boundaryNum": 24,
+                    "name": "KALOOR NORTH",
+                    "localname": "കലൂർ നോർത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN70",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0cd81812-5969-41e3-9b7a-47348967ebef",
+                "boundaryNum": 25,
+                "name": "ELAMAKKARA SOUTH",
+                "localname": "എളമക്കര സൗത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "71",
+                "children": [
+                  {
+                    "id": "c90fb632-0952-464b-8e70-83c6700a6bb6",
+                    "boundaryNum": 25,
+                    "name": "ELAMAKKARA SOUTH",
+                    "localname": "എളമക്കര സൗത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN71",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61c950af-c729-4e33-8e70-b24a0955844d",
+                "boundaryNum": 26,
+                "name": "POTTAKUZHY",
+                "localname": "പൊറ്റക്കുഴി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "72",
+                "children": [
+                  {
+                    "id": "853f9f97-4f76-4787-8bd5-fe37b6dfd6de",
+                    "boundaryNum": 26,
+                    "name": "POTTAKUZHY",
+                    "localname": "പൊറ്റക്കുഴി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN72",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "af1d980e-ff15-4f28-821d-01d26d86f11a",
+            "boundaryNum": 3,
+            "name": "Fort Kochi",
+            "localname": "ഫോർട്ട് കൊച്ചി ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "FORT KOCHI",
+            "children": [
+              {
+                "id": "a4753d57-9067-45cb-9314-e100d2df9331",
+                "boundaryNum": 27,
+                "name": "FORTKOCHI",
+                "localname": "ഫോർട്ട്കൊച്ചി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "1",
+                "children": [
+                  {
+                    "id": "a63f3c5e-e752-42da-a8c5-8ad0bddfcac1",
+                    "boundaryNum": 27,
+                    "name": "FORTKOCHI",
+                    "localname": "ഫോർട്ട്കൊച്ചി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN1",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ad92140-3c38-44a5-8ee4-d8e5b875c7b4",
+                "boundaryNum": 28,
+                "name": "KALVATHY",
+                "localname": "കല്‍വത്തി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "2",
+                "children": [
+                  {
+                    "id": "8b9b02f0-0e70-40af-968c-1f410eefd27f",
+                    "boundaryNum": 28,
+                    "name": "KALVATHY",
+                    "localname": "കല്‍വത്തി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN2",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "960098e7-c539-4a0e-8821-1f564cec6b59",
+                "boundaryNum": 29,
+                "name": "EARAVELY",
+                "localname": "ഈരവേലി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "3",
+                "children": [
+                  {
+                    "id": "7e4f61ce-30c1-40b4-bdd1-9343f28d6440",
+                    "boundaryNum": 29,
+                    "name": "EARAVELY",
+                    "localname": "ഈരവേലി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN3",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3cb50a04-687d-44d9-8013-5bc6280eed63",
+                "boundaryNum": 30,
+                "name": "KARIPPALAM",
+                "localname": "കരിപ്പാലം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "4",
+                "children": [
+                  {
+                    "id": "860baf54-e85d-4481-89d7-edab057da665",
+                    "boundaryNum": 30,
+                    "name": "KARIPPALAM",
+                    "localname": "കരിപ്പാലം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN4",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8125231d-ae00-4281-b60e-f14b2e573321",
+                "boundaryNum": 31,
+                "name": "MUNDAMVELLY",
+                "localname": "മുണ്ടംവേലി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "22",
+                "children": [
+                  {
+                    "id": "748832ab-2053-4c2e-a60e-b386d9ddecea",
+                    "boundaryNum": 31,
+                    "name": "MUNDAMVELLY",
+                    "localname": "മുണ്ടംവേലി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN22",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afb441ff-25bf-47cf-a23f-3a0ee988c487",
+                "boundaryNum": 32,
+                "name": "MANASSERY",
+                "localname": "മാനാശ്ശേരി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "23",
+                "children": [
+                  {
+                    "id": "d3d6fdf1-c302-4aa1-833e-5ca049f3ad4f",
+                    "boundaryNum": 32,
+                    "name": "MANASSERY",
+                    "localname": "മാനാശ്ശേരി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN23",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6a74ef9-485d-4206-bf94-e41ab111af04",
+                "boundaryNum": 33,
+                "name": "MOOLAMKUZHY",
+                "localname": "മൂലങ്കുഴി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "24",
+                "children": [
+                  {
+                    "id": "0c3f9edb-f96d-4264-8de2-32be33708390",
+                    "boundaryNum": 33,
+                    "name": "MOOLAMKUZHY",
+                    "localname": "മൂലങ്കുഴി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN24",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6489da9-a7bf-4f03-8e23-916567937df7",
+                "boundaryNum": 34,
+                "name": "NASARATHU",
+                "localname": "നസ്രത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "26",
+                "children": [
+                  {
+                    "id": "d66b5ddd-a912-475f-aa99-ecf336a31187",
+                    "boundaryNum": 34,
+                    "name": "NASARATHU",
+                    "localname": "നസ്രത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN26",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83e9079b-b63b-4043-8dde-f19c474fac0b",
+                "boundaryNum": 35,
+                "name": "FORTKOCHI VELI",
+                "localname": "ഫോർട്ട്കൊച്ചി വെളി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "27",
+                "children": [
+                  {
+                    "id": "95d9db2d-9c5e-42eb-bd3e-9fa3a99bdbe4",
+                    "boundaryNum": 35,
+                    "name": "FORTKOCHI VELI",
+                    "localname": "ഫോർട്ട്കൊച്ചി വെളി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN27",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe8d26e5-3450-4e36-a1ac-1aae9efb7af8",
+                "boundaryNum": 36,
+                "name": "AMARAVATHY",
+                "localname": "അമരാവതി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "28",
+                "children": [
+                  {
+                    "id": "f628e04b-ac4c-4d32-be2c-5527c8e602c4",
+                    "boundaryNum": 36,
+                    "name": "AMARAVATHY",
+                    "localname": "അമരാവതി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN28",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9edb0fbf-a4f6-4e1d-b45f-a2850c8d21b9",
+            "boundaryNum": 4,
+            "name": "Mattanchery",
+            "localname": "മട്ടാഞ്ചേരി ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MATTANCHERY",
+            "children": [
+              {
+                "id": "209acbc2-4483-4f4c-818a-8799abdb12d3",
+                "boundaryNum": 37,
+                "name": "MATTANCHERY",
+                "localname": "മട്ടാഞ്ചേരി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "5",
+                "children": [
+                  {
+                    "id": "db7f5adc-9d65-4672-bd3d-2d89e322ac88",
+                    "boundaryNum": 37,
+                    "name": "MATTANCHERY",
+                    "localname": "മട്ടാഞ്ചേരി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN5",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0fd5238d-30af-48f7-b469-70bfd109d835",
+                "boundaryNum": 38,
+                "name": "KOCHANGADI",
+                "localname": "കൊച്ചങ്ങാടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "6",
+                "children": [
+                  {
+                    "id": "0bb3e341-8a99-466a-9551-601045152e8a",
+                    "boundaryNum": 38,
+                    "name": "KOCHANGADI",
+                    "localname": "കൊച്ചങ്ങാടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN6",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c21c3f6-f910-4e9f-8b58-1a1f0046c1f1",
+                "boundaryNum": 39,
+                "name": "CHERALAYI",
+                "localname": "ചെറളായി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "7",
+                "children": [
+                  {
+                    "id": "9a681633-5482-4920-8d5b-73497358c366",
+                    "boundaryNum": 39,
+                    "name": "CHERALAYI",
+                    "localname": "ചെറളായി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN7",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7541475a-22ab-42d4-bf32-9531561a971d",
+                "boundaryNum": 40,
+                "name": "PANAYAPPILLY",
+                "localname": "പനയപ്പിള്ളി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "8",
+                "children": [
+                  {
+                    "id": "75d20129-d945-4388-ace1-6888d7773cf4",
+                    "boundaryNum": 40,
+                    "name": "PANAYAPPILLY",
+                    "localname": "പനയപ്പിള്ളി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN8",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afdfdca5-bea5-49f8-8c6d-4043e2b54349",
+                "boundaryNum": 41,
+                "name": "CHAKKAMADOM",
+                "localname": "ചക്കാമാടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "9",
+                "children": [
+                  {
+                    "id": "97e5da00-6f21-43bf-82a5-31805cd06572",
+                    "boundaryNum": 41,
+                    "name": "CHAKKAMADOM",
+                    "localname": "ചക്കാമാടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN9",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b3bb0eb-9d8b-44f8-a3ef-d870f0a2df9d",
+                "boundaryNum": 42,
+                "name": "KARUVELIPPADY",
+                "localname": "കരുവേലിപ്പടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "10",
+                "children": [
+                  {
+                    "id": "42dbda4b-5594-4c6d-934d-48f70a9b8671",
+                    "boundaryNum": 42,
+                    "name": "KARUVELIPPADY",
+                    "localname": "കരുവേലിപ്പടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN10",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d4915f6-75b7-45a5-8060-c116c69801e2",
+                "boundaryNum": 43,
+                "name": "THOPPUMPADY",
+                "localname": "തോപ്പുംപടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "11",
+                "children": [
+                  {
+                    "id": "fd36ab83-2b70-4885-a51a-a1d5797698de",
+                    "boundaryNum": 43,
+                    "name": "THOPPUMPADY",
+                    "localname": "തോപ്പുംപടി",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SUN11",
-                    "pincode": [143001],
-                    "area": "Area1",
-                    "children": []},
-                  { "id": 6,
-                    "boundaryNum": 1,
-                    "name": "Back Side 66 KVA Grid Patiala Road - Area2",
-                    "localname": "Back Side 66 KVA Grid Patiala Road - Area2",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "581659e1-516a-4fbd-adba-65e2f212319a",
+                "boundaryNum": 44,
+                "name": "CHULLICKAL",
+                "localname": "ചുള്ളിക്കൽ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "25",
+                "children": [
+                  {
+                    "id": "586833df-0a48-454e-bc68-53981dc06638",
+                    "boundaryNum": 44,
+                    "name": "CHULLICKAL",
+                    "localname": "ചുള്ളിക്കൽ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN25",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f0c59f60-ce9c-4806-b864-5e513177d31d",
+                "boundaryNum": 45,
+                "name": "ISLAND NORTH",
+                "localname": "ഐലന്റ് നോര്‍ത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "29",
+                "children": [
+                  {
+                    "id": "96006928-bd08-4f23-87b6-b064ff039b13",
+                    "boundaryNum": 45,
+                    "name": "ISLAND NORTH",
+                    "localname": "ഐലന്റ് നോര്‍ത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN29",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1d37d32-d9f7-418a-9735-a5959b89f242",
+                "boundaryNum": 46,
+                "name": "ISLAND SOUTH",
+                "localname": "ഐലന്റ് സൗത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "30",
+                "children": [
+                  {
+                    "id": "8c0521c4-5ce9-4c50-a665-93300e04a5d1",
+                    "boundaryNum": 46,
+                    "name": "ISLAND SOUTH",
+                    "localname": "ഐലന്റ് സൗത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN30",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7c9b77e5-1a9b-46bc-94e9-058ba1493973",
+            "boundaryNum": 5,
+            "name": "Pachalam",
+            "localname": "പള്ളുരുത്തി",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "PACHALAM",
+            "children": [
+              {
+                "id": "c0594664-4952-45cf-854f-de1102ccded0",
+                "boundaryNum": 47,
+                "name": "VADUTHALA WEST",
+                "localname": "വടുതല വെസ്റ്റ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "31",
+                "children": [
+                  {
+                    "id": "230fec70-1dc8-4b0d-a179-a62ffe60f108",
+                    "boundaryNum": 47,
+                    "name": "VADUTHALA WEST",
+                    "localname": "വടുതല വെസ്റ്റ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN31",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee7066e8-ec85-4d32-9a73-6182ed335815",
+                "boundaryNum": 48,
+                "name": "VADUTHALA EAST",
+                "localname": "വടുതല ഈസ്റ്റ്‌",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "32",
+                "children": [
+                  {
+                    "id": "56b22d71-bd8f-409e-a37e-39c208fcdaf2",
+                    "boundaryNum": 48,
+                    "name": "VADUTHALA EAST",
+                    "localname": "വടുതല ഈസ്റ്റ്‌",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN32",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38e62f8b-08b4-4c0c-8297-ad66ed6eccc8",
+                "boundaryNum": 49,
+                "name": "THRIKKANARVATTOM",
+                "localname": "തൃക്കണാര്‍വട്ടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "69",
+                "children": [
+                  {
+                    "id": "b8f3279e-d31e-4398-b130-cab342080c51",
+                    "boundaryNum": 49,
+                    "name": "THRIKKANARVATTOM",
+                    "localname": "തൃക്കണാര്‍വട്ടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN69",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50c1f995-d4da-494c-8aa5-30cb24c3fc58",
+                "boundaryNum": 50,
+                "name": "PACHALAM",
+                "localname": "പച്ചാളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "73",
+                "children": [
+                  {
+                    "id": "e3b0f476-8176-443c-a0f9-4771c4fcf9ca",
+                    "boundaryNum": 50,
+                    "name": "PACHALAM",
+                    "localname": "പച്ചാളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN73",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41e4646e-3232-48e6-8801-6f3d08a25393",
+                "boundaryNum": 51,
+                "name": "THATTAZHAM",
+                "localname": "തട്ടാഴം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "74",
+                "children": [
+                  {
+                    "id": "e7e9f933-1f2a-4527-8785-c39c3e0643d4",
+                    "boundaryNum": 51,
+                    "name": "THATTAZHAM",
+                    "localname": "തട്ടാഴം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN74",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c16b18dd-c396-479f-9237-cf4c8a790fed",
+            "boundaryNum": 6,
+            "name": "Palluruthy",
+            "localname": "പച്ചാളം",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "PALLURUTHY",
+            "children": [
+              {
+                "id": "3844d737-2196-40b6-ac86-fd94f4300452",
+                "boundaryNum": 52,
+                "name": "THAREBHAGAM",
+                "localname": "തറേഭാഗം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "12",
+                "children": [
+                  {
+                    "id": "6508c80b-afbd-422b-8a6a-a2e1e58e3eb0",
+                    "boundaryNum": 52,
+                    "name": "THAREBHAGAM",
+                    "localname": "തറേഭാഗം",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SUN12",
-                    "pincode": [143001],
-                    "area": "Area2",
-                    "children": []},
-                  { "id": 7,
-                    "boundaryNum": 1,
-                    "name": "Back Side Civil Courts Colony - Area1",
-                    "localname": "Back Side Civil Courts Colony - Area1",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "efeb4a8b-525e-40a8-9739-c8fe8f08cc5e",
+                "boundaryNum": 53,
+                "name": "KADEBHAGAM",
+                "localname": "കടേഭാഗം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "13",
+                "children": [
+                  {
+                    "id": "881a1ed1-6ac3-4eea-8fd8-5bc60e91ac95",
+                    "boundaryNum": 53,
+                    "name": "KADEBHAGAM",
+                    "localname": "കടേഭാഗം",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SUN13",
-                    "pincode": [143001],
-                    "area": "Area1",
-                    "children": []}
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f751542-52b1-49fb-8d80-a568cbde0b91",
+                "boundaryNum": 54,
+                "name": "THAZHUPPU",
+                "localname": "തഴുപ്പ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "14",
+                "children": [
+                  {
+                    "id": "f1c3f029-118d-4411-95ce-e392744c295a",
+                    "boundaryNum": 54,
+                    "name": "THAZHUPPU",
+                    "localname": "തഴുപ്പ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN14",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8395ad8-2f4e-4dbf-ae13-b86a31751a5a",
+                "boundaryNum": 55,
+                "name": "EDAKOCHI NORTH",
+                "localname": "ഇടക്കൊച്ചി നോർത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "15",
+                "children": [
+                  {
+                    "id": "615ef416-7dab-4287-8d7d-f99788f0d78d",
+                    "boundaryNum": 55,
+                    "name": "EDAKOCHI NORTH",
+                    "localname": "ഇടക്കൊച്ചി നോർത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN15",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "877153aa-52d7-43ac-8995-b6a1412e29f9",
+                "boundaryNum": 56,
+                "name": "EDAKOCHI SOUTH",
+                "localname": "ഇടക്കൊച്ചി സൗത്ത്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "16",
+                "children": [
+                  {
+                    "id": "fe8939f2-e161-41fb-84a5-8dc5913af044",
+                    "boundaryNum": 56,
+                    "name": "EDAKOCHI SOUTH",
+                    "localname": "ഇടക്കൊച്ചി സൗത്ത്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN16",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4407514-8933-445d-905a-7bbe3f5e027d",
+                "boundaryNum": 57,
+                "name": "PERUMBADAPPU",
+                "localname": "പെരുമ്പടപ്പ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "17",
+                "children": [
+                  {
+                    "id": "a1d8ad5d-a4e1-4555-b925-d9fcfb48797a",
+                    "boundaryNum": 57,
+                    "name": "PERUMBADAPPU",
+                    "localname": "പെരുമ്പടപ്പ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN17",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fadac4c8-93c4-466e-8687-7475f11b3819",
+                "boundaryNum": 58,
+                "name": "KONAM",
+                "localname": "കോണം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "18",
+                "children": [
+                  {
+                    "id": "59d53494-d100-4aeb-9d11-ddc08273a37f",
+                    "boundaryNum": 58,
+                    "name": "KONAM",
+                    "localname": "കോണം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN18",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "243a173b-b8c8-4a7a-9867-603b3ef1b83f",
+                "boundaryNum": 59,
+                "name": "PALLURUTHY KACHERIPADY",
+                "localname": "പള്ളൂരുത്തി കച്ചേരിപ്പടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "19",
+                "children": [
+                  {
+                    "id": "7d3e5b9c-d775-4641-ae33-8104f2c2c55e",
+                    "boundaryNum": 59,
+                    "name": "PALLURUTHY KACHERIPADY",
+                    "localname": "പള്ളൂരുത്തി കച്ചേരിപ്പടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN19",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eed253a3-bf14-4d78-b310-d83b48000c54",
+                "boundaryNum": 60,
+                "name": "NAMBYAPURAM",
+                "localname": "നമ്പ്യാപുരം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "20",
+                "children": [
+                  {
+                    "id": "e16b4e20-1c8d-474b-8032-abbc5f1ac4b6",
+                    "boundaryNum": 60,
+                    "name": "NAMBYAPURAM",
+                    "localname": "നമ്പ്യാപുരം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN20",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73af997c-255b-4723-9386-fbd3737e23aa",
+                "boundaryNum": 61,
+                "name": "PULLARDESAM",
+                "localname": "പുല്ലാർദേശം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "21",
+                "children": [
+                  {
+                    "id": "dccffcad-648b-434a-9aa7-b1ff0d5f2419",
+                    "boundaryNum": 61,
+                    "name": "PULLARDESAM",
+                    "localname": "പുല്ലാർദേശം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN21",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2d5fb914-ff9e-4dce-8f00-702bd031c60c",
+            "boundaryNum": 7,
+            "name": "Vyttila",
+            "localname": "വൈറ്റില",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "VYTTILA",
+            "children": [
+              {
+                "id": "2e69684f-4647-4971-9902-e189b1af5db9",
+                "boundaryNum": 62,
+                "name": "THAMMANAM",
+                "localname": "തമ്മനം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "45",
+                "children": [
+                  {
+                    "id": "af7044a4-17ab-4a1b-b4b1-d42bfd8ad591",
+                    "boundaryNum": 62,
+                    "name": "THAMMANAM",
+                    "localname": "തമ്മനം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN45",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e8b17e34-cf13-4de2-a510-55f66361dd8e",
+                "boundaryNum": 63,
+                "name": "CHAKKARAPARAMBU",
+                "localname": "ചക്കരപ്പറമ്പ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "46",
+                "children": [
+                  {
+                    "id": "6169e43a-a324-453f-a05d-d48417eeef16",
+                    "boundaryNum": 63,
+                    "name": "CHAKKARAPARAMBU",
+                    "localname": "ചക്കരപ്പറമ്പ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN46",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69585db5-90b9-44b4-920d-e61f92a3f74d",
+                "boundaryNum": 64,
+                "name": "CHALIKKAVATTAM",
+                "localname": "ചളിക്കവട്ടം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "47",
+                "children": [
+                  {
+                    "id": "73c1805a-160d-49c0-93ff-f85e29726497",
+                    "boundaryNum": 64,
+                    "name": "CHALIKKAVATTAM",
+                    "localname": "ചളിക്കവട്ടം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN47",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1231161-4bf8-483d-847e-a8868420da66",
+                "boundaryNum": 65,
+                "name": "PONNURUNNI EAST",
+                "localname": "പൊന്നുരുന്നി ഈസ്റ്റ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "48",
+                "children": [
+                  {
+                    "id": "34fd2125-d6a8-4f6c-bc9f-97f97b47068f",
+                    "boundaryNum": 65,
+                    "name": "PONNURUNNI EAST",
+                    "localname": "പൊന്നുരുന്നി ഈസ്റ്റ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN48",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dbe3cb77-10c7-47b6-9eec-53d0c0b90257",
+                "boundaryNum": 66,
+                "name": "VYTTILA",
+                "localname": "വൈറ്റില",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "49",
+                "children": [
+                  {
+                    "id": "b6e07ea8-3069-4804-8896-51e1261e30f6",
+                    "boundaryNum": 66,
+                    "name": "VYTTILA",
+                    "localname": "വൈറ്റില",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN49",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1b4c5d44-c86c-4105-ae5b-acdb03b77a18",
+                "boundaryNum": 67,
+                "name": "CHAMBAKKARA",
+                "localname": "ചമ്പക്കര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "50",
+                "children": [
+                  {
+                    "id": "99b319f4-71da-418f-a41f-3428f896bc3b",
+                    "boundaryNum": 67,
+                    "name": "CHAMBAKKARA",
+                    "localname": "ചമ്പക്കര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN50",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66e61879-5764-4301-9ad0-9d6328618508",
+                "boundaryNum": 68,
+                "name": "POONITHURA",
+                "localname": "പൂണിത്തുറ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "51",
+                "children": [
+                  {
+                    "id": "542c246c-32a3-431a-b073-eae45c2d5299",
+                    "boundaryNum": 68,
+                    "name": "POONITHURA",
+                    "localname": "പൂണിത്തുറ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN51",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b77fa5d-a89c-4256-85f3-766e5ef46a6d",
+                "boundaryNum": 69,
+                "name": "VYTTILA JANATHA",
+                "localname": "വൈറ്റില ജനത",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "52",
+                "children": [
+                  {
+                    "id": "1c0070b9-3167-42a3-ae7c-4fd26360b00e",
+                    "boundaryNum": 69,
+                    "name": "VYTTILA JANATHA",
+                    "localname": "വൈറ്റില ജനത",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN52",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5506efe3-f993-4d35-a34f-0b5999bfb17c",
+                "boundaryNum": 70,
+                "name": "PONNURUNNI",
+                "localname": "പൊന്നുരുന്നി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "53",
+                "children": [
+                  {
+                    "id": "d6eae009-5a4d-45bd-8a76-d99c01c5bd2c",
+                    "boundaryNum": 70,
+                    "name": "PONNURUNNI",
+                    "localname": "പൊന്നുരുന്നി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN53",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4fbc9f65-954a-48c7-9156-be519b4da9c6",
+                "boundaryNum": 71,
+                "name": "ELAMKULAM",
+                "localname": "എളംകുളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "54",
+                "children": [
+                  {
+                    "id": "bb0812c4-a233-4462-bfdb-8c3250a27c6a",
+                    "boundaryNum": 71,
+                    "name": "ELAMKULAM",
+                    "localname": "എളംകുളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN54",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbcffdef-7fdd-4fdd-9f21-46437c25dbf1",
+                "boundaryNum": 72,
+                "name": "GIRINAGAR",
+                "localname": "ഗിരിനഗർ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "55",
+                "children": [
+                  {
+                    "id": "0f1655d4-0459-4a2f-9507-0e57b2ca85f2",
+                    "boundaryNum": 72,
+                    "name": "GIRINAGAR",
+                    "localname": "ഗിരിനഗർ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN55",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "915365b9-fa3a-45db-931f-7f4692fcf66c",
+                "boundaryNum": 73,
+                "name": "KADAVANTHRA",
+                "localname": "കടവന്ത്ര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "57",
+                "children": [
+                  {
+                    "id": "ad9ab632-fdcb-4860-9f77-b2241ac5bb2b",
+                    "boundaryNum": 73,
+                    "name": "KADAVANTHRA",
+                    "localname": "കടവന്ത്ര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN57",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e3969e2-7461-46b7-88db-ac530cb1ae54",
+                "boundaryNum": 74,
+                "name": "GANDHI NAGAR",
+                "localname": "ഗാന്ധി നഗർ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward ",
+                "code": "63",
+                "children": [
+                  {
+                    "id": "c78c4bab-5234-4835-9ac7-9a28fc6d1a90",
+                    "boundaryNum": 74,
+                    "name": "GANDHI NAGAR",
+                    "localname": "ഗാന്ധി നഗർ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SUN63",
+                    "pincode": null,
+                    "area": null,
+                    "children": []
+                  }
                 ]
               }
             ]
