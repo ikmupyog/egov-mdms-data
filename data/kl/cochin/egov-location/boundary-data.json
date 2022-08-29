@@ -1,11 +1,11 @@
 {
-  "tenantId": "kl",
+  "tenantId": "kl.cochin",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
       "hierarchyType": {
         "code": "ADMIN",
-        "name": "ADMIN"
+        "name": "admin"
       },
       "boundary": {
         "id": "601fab73-c5e7-4b27-affa-3b05f4403dae",
