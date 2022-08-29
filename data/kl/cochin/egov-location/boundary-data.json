@@ -1,5 +1,5 @@
 {
-  "tenantId": "kl.cochin",
+  "tenantId": "kl.cochin ",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,44 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Cochin",
-        "localname": "Cochin",
+        "name": "Cochin ",
+        "localname": "കൊച്ച",
         "longitude": null,
         "latitude": null,
-        "label": "City",
-        "code": "kl.cochin",
+        "label": "Corporation",
+        "code": "kl.cochin ",
         "children": [
           {
             "id": 2,
             "boundaryNum": 1,
-            "name": "Zone 1",
-            "localname": "Zone1",
+            "name": "Main Office",
+            "localname": "മുഖ്യ ഓഫീസ് ",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "Z1",
+            "code": "MAIN_OFFICE",
             "children": [
               {
                 "id": 3,
                 "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block1",
+                "name": "PANAMPILLI NAGAR",
+                "localname": "പനമ്പിള്ളി നഗ്‍",
                 "longitude": null,
                 "latitude": null,
-                "label": "Block",
-                "code": "B1",
+                "label": "Ward ",
+                "code": "56",
                 "children": [
                   {
                     "id": 4,
                     "boundaryNum": 1,
-                    "name": "Ajit Nagar",
-                    "localname": "Ajit Nagar",
+                    "name": "PANAMPILLI NAGAR",
+                    "localname": "പനമ്പിള്ളി നഗര്‍",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "SUN04",
+                    "code": "SUN56",
                     "pincode": [
-                      143001
+                      123456
                     ],
                     "area": "A1",
                     "children": []
