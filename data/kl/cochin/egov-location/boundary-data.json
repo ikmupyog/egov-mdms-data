@@ -11,7 +11,7 @@
         "id": 1,
         "boundaryNum": 1,
         "name": "Cochin",
-        "localname": "Cochin",
+        "localname": "",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -20,39 +20,40 @@
           {
             "id": 2,
             "boundaryNum": 1,
-            "name": "Zone 1",
-            "localname": "Zone1",
+            "name": "Main Office",
+            "localname": "",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "Z1",
+            "code": "MAIN_OFFICE",
             "children": [
               {
                 "id": 3,
                 "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block1",
+                "name": "PANAMPILLI NAGAR",
+                "localname": "",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B1",
+                "code": "BLO",
                 "children": [
                   {
                     "id": 4,
                     "boundaryNum": 1,
-                    "name": "Ajit Nagar",
-                    "localname": "Ajit Nagar",
+                    "name": "PANAMPILLI NAGAR",
+                    "localname": "",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "SUN04",
+                    "code": "LOC56",
                     "pincode": [
-                      143001
+                      123456
                     ],
                     "area": "A1",
                     "children": []
                   }
                 ]
+              
               }
             ]
           }
