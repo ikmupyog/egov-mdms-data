@@ -36,21 +36,23 @@
                 "latitude": null,
                 "label": "Ward ",
                 "code": 56,
-                "children": {
-                  "id": "460021ad-5e41-4635-99be-2225d2b742bf",
-                  "boundaryNum": 4,
-                  "name": "PANAMPILLI NAGAR",
-                  "localname": "പനമ്പിള്ളി നഗര്‍",
-                  "longitude": null,
-                  "latitude": null,
-                  "label": "Locality",
-                  "code": "56",
-                  "pincode": [
-                    123456
-                  ],
-                  "area": null,
-                  "children": []
-                }
+                "children": [
+                  {
+                    "id": "460021ad-5e41-4635-99be-2225d2b742bf",
+                    "boundaryNum": 4,
+                    "name": "PANAMPILLI NAGAR",
+                    "localname": "പനമ്പിള്ളി നഗര്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "56",
+                    "pincode": [
+                      123456
+                    ],
+                    "area": null,
+                    "children": []
+                  }
+                ]
               }
             ]
           }
