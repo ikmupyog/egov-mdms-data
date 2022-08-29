@@ -14,7 +14,7 @@
         "localname": "",
         "longitude": null,
         "latitude": null,
-        "label": "Corporation",
+        "label": "City",
         "code": "kl.cochin ",
         "children": [
           {
@@ -34,8 +34,8 @@
                 "localname": "",
                 "longitude": null,
                 "latitude": null,
-                "label": "Ward ",
-                "code": "56",
+                "label": "Block",
+                "code": "BLO",
                 "children": [
                   {
                     "id": 4,
@@ -45,7 +45,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "SUN56",
+                    "code": "LOC56",
                     "pincode": [
                       123456
                     ],
