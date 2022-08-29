@@ -1,110 +1,53 @@
 {
-  "tenantId": "kl.cochin ",
+  "tenantId": "kl.cochin",
   "moduleName": "egov-location",
   "TenantBoundary": [
-    {
-      "hierarchyType": {
-        "code": "ADMIN",
-        "name": "admin"
-      },
-      "boundary": {
-        "id": "f347229f-68aa-4797-929b-8b9689c140da",
-        "boundaryNum": 1,
-        "name": "Cochin ",
-        "localname": "കൊച്ചി കോര്‍പ്പറേഷന്‍",
-        "longitude": null,
-        "latitude": null,
-        "label": "Corporation",
-        "code": "kl.cochin ",
-        "children": [
-          {
-            "id": "31884d9e-6553-45dd-9129-b6ccae795059",
-            "boundaryNum": 1,
-            "name": "Main Office",
-            "localname": "മുഖ്യ ഓഫീസ് ",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "MAIN_OFFICE",
-            "children": [
-              {
-                "id": "3cc40ab3-9608-4452-bd13-4b4d48a961ca",
-                "boundaryNum": 1,
-                "name": "PANAMPILLI NAGAR",
-                "localname": "പനമ്പിള്ളി നഗര്‍",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward ",
-                "code": "56",
-                "children": [
-                  {
-                    "id": "733c4aa0-0f98-4428-90b7-61a1bc10d61e",
-                    "boundaryNum": 1,
-                    "name": "PANAMPILLI NAGAR",
-                    "localname": "പനമ്പിള്ളി നഗര്‍",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "SUN56",
-                    "pincode": [
-                      123456
-                    ],
-                    "area": "A1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    },
     {
       "hierarchyType": {
         "code": "REVENUE",
         "name": "REVENUE"
       },
       "boundary": {
-        "id": "f347229f-68aa-4797-929b-8b9689c140da",
+        "id": 1,
         "boundaryNum": 1,
-        "name": "Cochin ",
-        "localname": "കൊച്ചി കോര്‍പ്പറേഷന്‍",
+        "name": "Cochin",
+        "localname": "Cochin",
         "longitude": null,
         "latitude": null,
-        "label": "Corporation",
-        "code": "kl.cochin ",
+        "label": "City",
+        "code": "kl.cochin",
         "children": [
           {
-            "id": "31884d9e-6553-45dd-9129-b6ccae795059",
+            "id": 2,
             "boundaryNum": 1,
-            "name": "Main Office",
-            "localname": "മുഖ്യ ഓഫീസ് ",
+            "name": "Zone 1",
+            "localname": "Zone1",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "MAIN_OFFICE",
+            "code": "Z1",
             "children": [
               {
-                "id": "3cc40ab3-9608-4452-bd13-4b4d48a961ca",
+                "id": 3,
                 "boundaryNum": 1,
-                "name": "PANAMPILLI NAGAR",
-                "localname": "പനമ്പിള്ളി നഗര്‍",
+                "name": "Block 1",
+                "localname": "Block1",
                 "longitude": null,
                 "latitude": null,
-                "label": "Ward ",
-                "code": "56",
+                "label": "Block",
+                "code": "B1",
                 "children": [
                   {
-                    "id": "733c4aa0-0f98-4428-90b7-61a1bc10d61e",
+                    "id": 4,
                     "boundaryNum": 1,
-                    "name": "PANAMPILLI NAGAR",
-                    "localname": "പനമ്പിള്ളി നഗര്‍",
+                    "name": "Ajit Nagar",
+                    "localname": "Ajit Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "SUN56",
+                    "code": "SUN04",
                     "pincode": [
-                      123456
+                      143001
                     ],
                     "area": "A1",
                     "children": []
