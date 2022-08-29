@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "Corporation",
-        "code": "C070100",
+        "code": "kl.cochin",
         "children": [
           {
             "id": "ae7b5d6a-b55e-4567-a022-42fc21686a88",
@@ -1819,7 +1819,7 @@
         "longitude": null,
         "latitude": null,
         "label": "Corporation",
-        "code": "C070100",
+        "code": "kl.cochin",
         "children": [
           {
             "id": "ae7b5d6a-b55e-4567-a022-42fc21686a88",
