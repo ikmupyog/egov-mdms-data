@@ -1,5 +1,5 @@
 {
-  "tenantId": "kl.cochin ",
+  "tenantId": "kl.cochin",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,44 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Cochin ",
-        "localname": "",
+        "name": "Cochin",
+        "localname": "Cochin",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "kl.cochin ",
+        "code": "kl.cochin",
         "children": [
           {
             "id": 2,
             "boundaryNum": 1,
-            "name": "Main Office",
-            "localname": "",
+            "name": "Zone 1",
+            "localname": "Zone1",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "MAIN_OFFICE",
+            "code": "Z1",
             "children": [
               {
                 "id": 3,
                 "boundaryNum": 1,
-                "name": "PANAMPILLI NAGAR",
-                "localname": "",
+                "name": "Block 1",
+                "localname": "Block1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "BLO",
+                "code": "B1",
                 "children": [
                   {
                     "id": 4,
                     "boundaryNum": 1,
-                    "name": "PANAMPILLI NAGAR",
-                    "localname": "",
+                    "name": "Ajit Nagar",
+                    "localname": "Ajit Nagar",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC56",
+                    "code": "SUN04",
                     "pincode": [
-                      123456
+                      143001
                     ],
                     "area": "A1",
                     "children": []
